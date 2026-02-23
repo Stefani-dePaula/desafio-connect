@@ -15,7 +15,7 @@
         img {
             height: 30vh;
             border-radius: 100%;
-            border: solid #00AAFF 5px;
+            border: solid #73d5ee 5px;
         }
     }
 }
@@ -47,12 +47,14 @@
 
 address {
     // border: solid red;
-    display: flex;
-    justify-content: space-between;
+    //display: flex;
+    text-align: center;
+    justify-content: space-evenly;
     width: 60%;
 
     p {
         font-size: 0.85rem;
+            
     }
 }
 

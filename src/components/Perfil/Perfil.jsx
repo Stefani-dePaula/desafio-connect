@@ -6,17 +6,17 @@ function Perfil() {
     return (
         <section className={styles.containerTelaPerfil}>
             <article>
-                <img src={ImgPerfil} alt="Foto de perfil de Fernanda Correa" />
+                <img src={ImgPerfil} alt="Foto de perfil de Stefani de Paula" />
                 <div className={styles.cardInfo}>
-                    <h2>Fernanda Correa</h2>
+                    <h2>Stefani de Paula</h2>
                     <h3>Voluntária Ativa</h3>
 
-                    <p className={styles.paragrafoSobreMim}>Apaixonada por fazer a diferença na comunidade. Acredito que pequenas ações podem transformar vidas e estou sempre em busca de novas oportunidades para ajudar.</p>
+                    <p className={styles.paragrafoSobreMim}>“Sou movida pelo desejo de fazer a diferença na comunidade, acreditando que pequenas ações têm o poder de transformar vidas e buscando constantemente novas formas de contribuir”.</p>
 
                     <address>
-                        <p>Magé, RJ</p>
-                        <p>fernandacorrea@email.com</p>
-                        <p>Membro desde Janeiro de 2022</p>
+                        <p>Caçapava, SP</p>
+                        <p>stefanidepauladasilva1@hotmail.com. </p>
+                        <p>Membro desde Novembro de 2025</p>
                     </address>
 
                     <ul className={styles.listaInteresses}>
